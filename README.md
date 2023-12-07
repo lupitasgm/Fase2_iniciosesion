@@ -1,3 +1,16 @@
+# Foro2
+Repositorio del Foro 2 de Diseño y Programación de Software Multiplataforma
+
+*Archivo PDF*
+https://drive.google.com/file/d/16YGmsYLwWqJ5UpiY9-fWfF6LOF8B7tEt/view?usp=sharing
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
